@@ -40,6 +40,6 @@ fun Caja(){
 
 @Preview(showSystemUi = true, device = Devices.DEFAULT)
 @Composable
-private fun Main(){
+private fun principal(){
     Caja();
 }
